@@ -1,9 +1,12 @@
 ### Hi I'm T.YAMAZAKI 👋
 
 ### Stats
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=motoo1789)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=motoo1789)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=motoo1789&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motoo1789" />
+</a>
 <!--
 **motoo1789/motoo1789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
